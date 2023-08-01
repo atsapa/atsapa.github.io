@@ -1,0 +1,14 @@
+body {
+background-color: grey;
+color: black; 
+padding: 3px;
+}
+#image {
+	float: left;
+}
+#description {
+float: right;
+}
+#reviews {
+	clear: both;
+}
