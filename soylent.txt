@@ -1,0 +1,338 @@
+
+Recipe 1: Basic Soylent
+ 150g Oats
+ 50g Whey protein powder
+ 30ml Canola oil
+ 40g Maltodextrin
+ 10g Psyllium husk
+ 1 Multivitamin supplement
+
+Recipe 2: Chocolate Bliss
+ 20g Cocoa powder
+ 60g Pea protein powder
+ 30ml Coconut oil
+ 150g Oat flour
+ 15g Chia seeds
+ 1 Banana
+ 300ml Almond milk
+
+Recipe 3: Berry Blast
+ 150g Mixed berries
+ 50g Rice protein powder
+ 30ml Flaxseed oil
+ 120g Rolled oats
+ 50g Spinach
+ 100g Greek yogurt
+ 300ml Water
+
+Recipe 4: Nutty Delight
+ 120g Almond flour
+ 60g Hemp protein powder
+ 30g Peanut butter
+ 100g Quinoa flakes
+ 30ml Coconut milk
+ 50g Kale
+ Honey to taste
+
+Recipe 5: Tropical Paradise
+ 150g Pineapple
+ 100g Mango
+ 50g Brown rice protein powder
+ 15g Chia seeds
+ 30ml Macadamia nut oil
+ 150g Oats
+ 300ml Coconut water
+
+Recipe 6: Green Energy
+ 100g Spinach
+ 1/2 Avocado
+ 40g Pumpkin seed protein powder
+ 30ml Coconut oil
+ 50g Oat bran
+ 10g Spirulina powder
+ 300ml Water
+
+Recipe 7: Creamy Peanut Punch
+ 30g Peanut flour
+ 50g Casein protein powder
+ 100g Greek yogurt
+ 150g Oats
+ 15g Chia seeds
+ 300ml Almond milk
+
+Recipe 8: Vanilla Almond Dream
+ 100g Almond meal
+ 50g Rice protein powder
+ 30g Almond butter
+ 100g Quinoa flakes
+ 50g Kale
+ 300ml Water
+
+Recipe 9: Choco-Banana Boost
+ 20g Cocoa powder
+ 1 Banana
+ 60g Pea protein powder
+ 30ml Flaxseed oil
+ 150g Oat flour
+ 50g Spinach
+ 300ml Coconut water
+
+Recipe 10: Mixed Nut Marvel
+ 100g Mixed nuts
+ 50g Hemp protein powder
+ 30ml Coconut milk
+ 120g Rolled oats
+ 15g Chia seeds
+ 50g Kale
+ Honey to taste
+
+Recipe 11: Citrus Zing
+ 1 Orange
+ 1 Lemon
+ 50g Brown rice protein powder
+ 15g Chia seeds
+ 30ml Macadamia nut oil
+ 150g Oats
+ 300ml Coconut water
+
+Recipe 12: Pumpkin Spice Soylent
+ 150g Pumpkin puree
+ 50g Casein protein powder
+ 100g Greek yogurt
+ 50g Oat bran
+ 30g Walnut pieces
+ 300ml Water
+
+Recipe 13: Blueberry Bliss
+ 150g Blueberries
+ 60g Pea protein powder
+ 30g Almond butter
+ 100g Quinoa flakes
+ 15g Chia seeds
+ 50g Spinach
+ 300ml Almond milk
+
+Recipe 14: Coconut Mango Mix
+ 150g Mango
+ 100g Coconut flour
+ 50g Rice protein powder
+ 30ml Coconut oil
+ 120g Rolled oats
+ 50g Spinach
+ 300ml Coconut water
+
+Recipe 15: Nut-Free Chocolate
+ 100g Sunflower seed flour
+ 60g Pea protein powder
+ 20g Cocoa powder
+ 30ml Coconut oil
+ 150g Oat flour
+ 50g Spinach
+ 300ml Water
+
+Recipe 16: Apple Cinnamon Fusion
+ 1 Apple
+ Cinnamon to taste
+ 50g Hemp protein powder
+ 30g Peanut butter
+ 150g Oats
+ 15g Chia seeds
+ 300ml Almond milk
+
+Recipe 17: Super Green Soylent
+ 50g Kale
+ 1/2 Avocado
+ 40g Pumpkin seed protein powder
+ 30ml Coconut oil
+ 100g Quinoa flakes
+ 50g Spinach
+ 300ml Water
+
+Recipe 18: Minty Fresh
+ Fresh mint leaves to taste
+ 50g Vanilla rice protein powder
+ 30g Almond butter
+ 100g Oat flour
+ 15g Chia seeds
+ 50g Kale
+ 300ml Coconut water
+
+Recipe 19: Chocolate Raspberry Delight
+ 20g Cocoa powder
+ 100g Raspberries
+ 50g Brown rice protein powder
+ 30ml Coconut oil
+ 150g Oats
+ 15g Chia seeds
+ 300ml Almond milk
+
+Recipe 20: Pina Colada Twist
+ 150g Pineapple
+ 100g Coconut flour
+ 50g Pea protein powder
+ 30ml Coconut oil
+ 100g Quinoa flakes
+ 50g Spinach
+ 300ml Coconut water
+
+Recipe 21: Coffee Infusion
+ Coffee (brewed and cooled) to taste
+ 50g Vanilla casein protein powder
+ 30ml Coconut oil
+ 50g Oat bran
+ 15g Chia seeds
+ 300ml Water
+
+Recipe 22: Mixed Berry Coconut
+ 150g Mixed berries
+ 100g Coconut flour
+ 50g Hemp protein powder
+ 30ml Coconut oil
+ 120g Rolled oats
+ 50g Spinach
+ 300ml Coconut water
+
+Recipe 23: Chocolate Hazelnut Heaven
+ 20g Cocoa powder
+ 100g Hazelnut meal
+ 60g Pea protein powder
+ 30ml Coconut oil
+ 150g Oats
+ 15g Chia seeds
+ 300ml Almond milk
+
+Recipe 24: Carrot Cake Soylent
+ 2 Carrots
+ Cinnamon to taste
+ 50g Casein protein powder
+ 50g Oat bran
+ 30g Walnut pieces
+ 300ml Water
+
+Recipe 25: Tropical Greens
+ 150g Pineapple
+ 100g Mango
+ 50g Spinach
+ 50g Hemp protein powder
+ 30ml Coconut oil
+ 100g Quinoa flakes
+ 300ml Coconut water
+
+Recipe 26: Almond Joyful
+ 100g Almond meal
+ 20g Cocoa powder
+ 50g Rice protein powder
+ 30ml Coconut oil
+ Shredded coconut to
+
+ taste
+ 150g Oats
+ 300ml Almond milk
+
+Recipe 27: Berry Banana Blend
+ 150g Mixed berries
+ 1 Banana
+ 60g Pea protein powder
+ 30ml Coconut oil
+ 150g Oat flour
+ 50g Spinach
+ 300ml Coconut water
+
+Recipe 28: Peanut Butter Banana Bliss
+ 30g Peanut flour
+ 1 Banana
+ 50g Hemp protein powder
+ 30g Peanut butter
+ 150g Oats
+ 15g Chia seeds
+ 300ml Almond milk
+
+Recipe 29: Vanilla Berry Burst
+ 150g Mixed berries
+ 50g Vanilla rice protein powder
+ 30ml Coconut oil
+ 120g Rolled oats
+ 15g Chia seeds
+ 50g Spinach
+ 300ml Water
+
+Recipe 30: Nutty Chocolate Indulgence
+ 20g Cocoa powder
+ 100g Mixed nuts
+ 50g Brown rice protein powder
+ 30ml Coconut oil
+ 150g Oats
+ 50g Spinach
+ 300ml Almond milk
+
+Recipe 31: Green Mango Tango
+ 150g Mango
+ 50g Spinach
+ 50g Hemp protein powder
+ 30ml Coconut oil
+ 100g Quinoa flakes
+ 300ml Water
+
+Recipe 32: Chocolate Banana Crunch
+ 20g Cocoa powder
+ 1 Banana
+ 50g Casein protein powder
+ 30g Almond butter
+ 50g Oat bran
+ Cacao nibs to taste
+ 300ml Water
+
+Recipe 33: Strawberry Kiwi Fusion
+ 150g Strawberries
+ 2 Kiwi
+ 60g Pea protein powder
+ 30ml Coconut oil
+ 150g Oats
+ 50g Spinach
+ 300ml Coconut water
+
+Recipe 34: Vanilla Date Delight
+ Dates to taste
+ 50g Vanilla rice protein powder
+ 30g Almond butter
+ 150g Oats
+ 15g Chia seeds
+ 50g Spinach
+ 300ml Water
+
+Recipe 35: Mango Coconut Surprise
+ 150g Mango
+ 100g Coconut flour
+ 50g Hemp protein powder
+ 30ml Coconut oil
+ 120g Rolled oats
+ 50g Spinach
+ 300ml Coconut water
+
+Recipe 36: Chocolate Mint Marvel
+ 20g Cocoa powder
+ Fresh mint leaves to taste
+ 60g Pea protein powder
+ 30ml Coconut oil
+ 150g Oats
+ 50g Spinach
+ 300ml Almond milk
+
+Recipe 37: Raspberry Coconut Cream
+ 150g Raspberries
+ 100g Coconut flour
+ 50g Casein protein powder
+ 30ml Coconut oil
+ 100g Quinoa flakes
+ 300ml Water
+
+Recipe 38: Blueberry Banana Blend
+ 150g Blueberries
+ 1 Banana
+ 60g Pea protein powder
+ 30ml Coconut oil
+ 150g Oat flour
+ 50g Spinach
+ 300ml Coconut water
+
+Feel free to adjust the ingredient amounts based on your nutritional needs and preferences. Make sure to consult a healthcare professional before making any significant dietary changes.
